@@ -45,9 +45,7 @@ android.private_storage = True
 downloaded.)
 android.ndk_path = 
 
-# (str) Android SDK directory (if empty, it will be automatically 
-downloaded.)
-android.sdk_path = 
+
 
 # (str) Gradle directory (if empty, it will be automatically downloaded.)
 android.gradle_path = 
